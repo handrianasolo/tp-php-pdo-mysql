@@ -1,3 +1,15 @@
-# TP PHP MySQL POO
+# Description
 Réalisation d'un mini-blog introduisant la programmation orienté objet avec PHP, MySql, PDO
-Création des requêtes Create, Read, Update, Delete avec la conception MVC
+
+# Les tâches réalisées
+- Front-end avec HTML5, CSS3, Bootstrap et en utilisant Datatables
+- Back-end avec PHP PDO :
+  - création de la base de données avec MySQL
+  - affichage des contenus enregistrés avec la requête READ
+  - création de nouveau contenu avec la requête CREATE
+  - modification d'un contenu avec la requête EDIT
+  - suppression d'un contenu avec la requête DELETE
+  - ajout de la fonction recherche en utilisant une filtre avec Datatables
+  - création de la fonction export en fichier pdf avec Datatabales
+- Gestion de la partie administrateur et utilisateur de l'application
+  

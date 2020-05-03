@@ -13,3 +13,5 @@ Réalisation d'un mini-blog introduisant la programmation orienté objet avec PH
   - création de la fonction export en fichier pdf avec Datatabales
 - Gestion de la partie administrateur et utilisateur de l'application
   
+# Screeshot
+![alt tag](https://github.com/handrianasolo/tp-php-mysql-crud/blob/master/capture_ecran_accueil.PNG)

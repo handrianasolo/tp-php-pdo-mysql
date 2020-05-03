@@ -1,5 +1,5 @@
 # Description
-Réalisation d'un mini-blog introduisant la programmation orienté objet avec PHP, MySql, PDO
+Réalisation d'une application introduisant la programmation orienté objet avec PHP, MySql, PDO
 
 # Les tâches réalisées
 - Front-end avec HTML5, CSS3, Bootstrap et en utilisant Datatables

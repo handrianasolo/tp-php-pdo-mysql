@@ -14,4 +14,4 @@ Réalisation d'une application introduisant la programmation orienté objet avec
 - Gestion de la partie administrateur et utilisateur de l'application
   
 # Screeshot
-![alt tag](https://github.com/handrianasolo/tp-php-mysql-crud/blob/master/capture_ecran_accueil.PNG)
+![alt tag](https://github.com/handrianasolo/tp-php-pdo-mysql/blob/master/mockup.PNG)
